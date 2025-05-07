@@ -1,4 +1,3 @@
-# MIT License @nemesis.rc
 ---
 
 🚀 **Welcome to `basics-go`!**
