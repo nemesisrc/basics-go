@@ -1,0 +1,32 @@
+package main
+
+// single line comment
+/*
+multi line comment
+in Golang
+*/
+
+import (
+	"fmt")
+// alternate-syntax: import "fmt"
+
+func main(){
+
+	fmt.Println("welcome to my quiz game!!")
+
+	var name string = "John Smilga"
+	// alternate syntax --> name := "John Smilga"
+	fmt.Println(name)
+	
+	/*
+	var age int = 35                // signed int
+	var data1 uint = 5              // unsigned int
+	var isCool bool = true
+	var size float32 = 2.3          // takes 32 bytes memory
+	var size2 float64 = 2.3         // takes 64 bytes memory
+	var size3 complex64 = 2 + 3i    // takes 64 bytes memory
+	*/
+
+	fmt.Printf(("Hello %v %v !!"), name, name)
+
+}
