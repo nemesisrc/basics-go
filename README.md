@@ -1,3 +1,4 @@
+# MIT License
 ---
 
 🚀 **Welcome to `basics-go`!**
