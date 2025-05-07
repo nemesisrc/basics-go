@@ -1,9 +1,8 @@
 package main
 
-import {
-	"fmt",
-	"os",
-}
+import (
+	"fmt"
+)
 // alternate syntax --> import "fmt" "os"
 
 func main() {
