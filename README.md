@@ -26,6 +26,6 @@
 
 ### 📚 Let's Learn & Build Together!
 
-✨ Feel free to fork, star ⭐, and contribute! PRs are welcome!
+✨ Feel free to fork, star and contribute! PRs are welcome!
 
 ---
